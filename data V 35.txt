@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Mod APKs are modified versions of original Android applications. These modified versions have additional features and functionalities, and they are created by independent developers","photo":"https://iili.io/HSs834j.jpg"},
+  {"title":"tips pack 2","desc":"Mod APKs are not available on the official app stores, as they are not authorized by the developers of the original applications.","photo":"https://iili.io/HSs8K3x.jpg"},
+  {"title":"advice mod 3","desc":"Mod APKs have been around for a long time, and they have gained popularity due to the additional functionalities they provide. However, their use raises concerns about the security and privacy of users. ","photo":"https://iili.io/HSs8xZF.png"},
+  {"title":"how to use this app 4","desc":"Ad-free experience: One of the most significant advantages of using Mod APKs is the ability to remove ads from the application. Most free applications have ads, which can be annoying and intrusive. Mod APKs remove these ads, providing a better user experience.","photo":"https://iili.io/HSs8qvV.jpg"},
+  {"title":"advace pack 5","desc":"Unlocked premium features: Mod APKs can unlock premium features that are only available to users who pay for the application. This can include access to additional content, premium subscriptions, and other features.","photo":"https://iili.io/HSs8fYQ.webp"},
+  {"title":"helper mod 6 ","desc":"Unlimited resources: Mod APKs can provide unlimited resources, such as coins, gems, or lives, in games and other applications. This can make the game more enjoyable and easier to play.","photo":"https://iili.io/HSs8ByB.jpg"},
+  {"title":"advice pack 7","desc":"Customization: Mod APKs can provide additional customization options, such as changing the color scheme or adding new themes. This can allow users to personalize their experience and make the application more enjoyable.","photo":"https://iili.io/HSs8nTP.jpg"},
+  {"title":"tips mod 8","desc":"Malware: Mod APKs can contain malware or viruses that can harm the device or steal personal information. The developers of Mod APKs are not authorized by the original application developers, so they may add malicious code to the application.","photo":"https://iili.io/HSs8oj1.webp"}
    ]
  
 }
